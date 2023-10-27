@@ -1,0 +1,12 @@
+html {
+    padding: 2rem !important;
+}
+
+html::before {
+    content: "";
+    background: var(--main-image)
+}
+
+* {
+    opacity: 80%;
+}
