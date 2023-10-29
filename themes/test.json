@@ -1,6 +1,6 @@
 {
     "css": "https://raw.githubusercontent.com/SethBurkart123/BetterSEQTA-Themes/main/themes/theme.css",
-    "className": "dark-theme",
+    "className": "",
     "images": {
       "--main-image": "https://images.unsplash.com/photo-1696580436068-f19c26850e8b?auto=format&fit=crop&q=80&w=2371"
     }
