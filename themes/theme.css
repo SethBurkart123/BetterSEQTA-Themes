@@ -1,12 +1,8 @@
-html {
-    padding: 2rem !important;
-}
-
-html::before {
+body::before {
     content: "";
-    background: var(--main-image)
-}
-
-* {
-    opacity: 80%;
+    background: var(--main-image);
+    height: 100%;
+    width: 100%;
+    pointer-events: none;
+    object-fit: cover;
 }
