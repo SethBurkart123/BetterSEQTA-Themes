@@ -1,10 +1,9 @@
-body::before {
+#container::after {
     content: "";
     background: var(--main-image);
-    height: 100%;
     width: 100%;
-    pointer-events: none;
+    height: 100%;
     object-fit: cover;
-    z-index: -1;
-    position: fixed;
+    pointer-events: none;
+    border: none !important;
 }
