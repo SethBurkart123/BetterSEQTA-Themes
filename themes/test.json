@@ -2,8 +2,7 @@
     "css": "https://raw.githubusercontent.com/SethBurkart123/BetterSEQTA-Themes/main/themes/theme.css",
     "className": "",
     "images": {
-      "--main-image": "https://images.unsplash.com/photo-1696580436068-f19c26850e8b?auto=format&fit=crop&q=80&w=2371",
-      "--other-image": "https://images.unsplash.com/photo-1579546929662-711aa81148cf?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=1080&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyfHx8fHx8MTY5ODc4OTc4Mw&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1920"
+      "--other-image": "https://source.unsplash.com/random/1920x1080"
     }
   }
   
