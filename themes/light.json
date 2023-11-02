@@ -1,0 +1,7 @@
+{
+  "css": "https://raw.githubusercontent.com/SethBurkart123/BetterSEQTA-Themes/main/themes/theme.css",
+  "className": "",
+  "images": {
+    "--other-image": "https://source.unsplash.com/random/1920x1080"
+  }
+}
