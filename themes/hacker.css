@@ -1,0 +1,241 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root {
+  --bg-main: rgba(12, 12, 12, 0.9);
+  --bg-secondary: rgba(18, 20, 18, 0.9);
+}
+
+body, html {
+  background: black !important;
+}
+
+* {
+  font-family: 'Courier Prime', monospace !important;
+}
+
+#main > .dashboard {
+  grid-auto-rows: unset !important;
+}
+
+.student #menu > ul::before {
+  background-color: transparent !important;
+}
+
+#container #content #main table tbody tr td {
+  border-color: transparent !important;
+}
+
+.entriesWrapper {
+  background: var(--bg-main) !important;
+}
+
+#container #content #title {
+  background-color: var(--bg-main) !important;
+  box-shadow: none !important;
+  border-bottom: none !important;
+}
+
+.mediaWrapper,
+.mediaRecorder,
+.MediaRecorder__MediaRecorder___2c2_M,
+.MediaRecorder__actions___3Jjvp,
+.pane.tall .footer,
+.anyoneSelect,
+.pane.tall .header {
+  background: transparent !important;
+}
+
+#loading > div {
+  color: var(--better-main);
+}
+
+#loading {
+  background-color: var(--bg-main) !important;
+}
+
+audio {
+  filter: invert();
+}
+
+.cke_button.cke_button_on {
+  background: rgb(35, 35, 35) !important;
+}
+
+.uiFileHandlerPanel,
+.formattedText > .wrapper > .cke > .cke_inner > .cke_contents,
+.pane.tall {
+  background: var(--bg-main) !important;
+  border: 1px solid var(--better-main) !important;
+}
+
+#content #main #news-container h1,
+#home-container > div {
+  background: var(--bg-main) !important;
+  border: 1px solid var(--better-main) !important;
+  box-shadow: 0px 0px 5px 0px var(--better-main) !important;
+}
+
+#menu ul::before {
+  border-bottom: none !important;
+}
+
+#container #menu {
+  background-color: var(--bg-main) !important;
+}
+
+#menu li,
+#menu a {
+  transition-property: all !important;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 800ms;
+}
+
+#menu .active {
+  box-shadow: 0px 0px 5px -2px var(--better-main) !important;
+  color: var(--better-main) !important;
+}
+
+#container {
+  border-top-left-radius: 1rem !important;
+  background: var(--bg-main) !important;
+}
+
+#container #content #main {
+  border-top: 2px solid var(--better-main) !important;
+  border-left: 2px solid var(--better-main) !important;
+  box-shadow: 5px 5px 5px -5px var(--better-main) inset !important;
+  border-top-left-radius: 1rem;
+  background: var(--bg-main)
+}
+
+td {
+  background-color: var(--background-secondary) !important;
+}
+
+.documents td.colourBar {
+  color: var(--better-main) !important;
+}
+
+.documents td.colourBar {
+  font-size: small;
+}
+
+ tr.document.label-match {
+  box-shadow: 0px 0px 2px 0px var(--better-main) !important;
+}
+
+#container #content .buttonChecklist,
+#container #content .search {
+  border-radius: 4px !important;
+  background-color: var(--background-main) !important;
+  box-shadow: 0px 0px 2px 0px var(--better-main) inset !important;
+  margin-bottom: 4px !important;
+}
+
+#container #content .buttonChecklist {
+  transform: scale(1.1);
+  margin: 0 12px 4px 4px !important;
+}
+
+.LabelList__LabelList___2RJFf > li.LabelList__selected___3Egk7 {
+  background: var(--background-main) !important;
+  border: 1px solid var(--better-main);
+  position: relative;
+  overflow: shown;
+}
+
+.LabelList__LabelList___2RJFf > li.LabelList__selected___3Egk7::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: -2px;
+  z-index: 10;
+  height: 100%;
+  width: 5px;
+  background: var(--bg-main);
+}
+
+#main #home-container .shortcut-container div {
+  background: transparent !important;
+}
+
+#home-container .timetable-container #day-container div {
+  background: var(--bg-secondary);
+  width: 100%;
+}
+
+.day-container {
+  background: transparent !important;
+}
+
+.day {
+  background: unset !important;
+}
+
+.day h4 {
+  font-size: 10px !important;
+}
+
+.dashboard > div,
+.dashboard > .message {
+  background: var(--bg-main) !important;
+  border: 1px solid var(--better-main) !important;
+  box-shadow: 0px 0px 5px 0px var(--better-main) !important;
+}
+
+.dashboard .message,
+.dashboard .message .ais-wrapper {
+  background: transparent !important;
+}
+
+.upcoming-items {
+  background: var(--bg-secondary) !important;
+}
+
+.MessageList__MessageList___3DxoC {
+  background: var(--background-main) !important;
+  box-shadow: 0px 0px 0px 1px var(--better-main) !important;
+}
+
+.Viewer__organisation___2eDrr {
+  border-right: 1px solid var(--better-main);
+}
+
+.legacy-root button, .legacy-root a {
+  background: var(--bg-main) !important;
+  box-shadow: 0px 0px 4px 0px var(--better-main),
+              0px 0px 1px 0px var(--better-main) !important;
+  color: var(--better-main) !important;
+}
+
+.userInfosvgdiv svg path {
+  filter: drop-shadow( 0px 0px 2px var(--better-main));
+}
+
+svg g {
+  fill: white !important;
+}
+
+.userInfohouse {
+  border: 1px solid var(--better-main) !important;
+}
+
+.Message__Message___3oJaU {
+  border: 1px solid var(--better-main) !important;
+}
+
+.Message__Message___3oJaU,
+.Message__Message___3oJaU .userHTML {
+  background: var(--bg-main) !important;
+}
+
+.notifications__bubble___1EkSQ {
+  background: var(--bg-main) !important;
+  box-shadow: 0px 0px 3px 1px var(--better-main) !important;
+}
+
+@media (min-width: 1000px) {
+  ol > [data-label] {
+    border-right-color: transparent !important;
+  }
+}
