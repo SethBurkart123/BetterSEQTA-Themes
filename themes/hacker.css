@@ -95,6 +95,11 @@ audio {
   color: var(--better-main) !important;
 }
 
+#menu > ul.noscroll:has(li.hasChildren.active) > li.active {
+  background: transparent !important;
+  box-shadow: unset !important;
+}
+
 #container {
   border-top-left-radius: 1rem !important;
   background: var(--bg-main) !important;
