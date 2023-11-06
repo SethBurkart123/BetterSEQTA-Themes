@@ -80,7 +80,7 @@ audio {
 }
 
 #container #menu {
-  background: transparent !important;
+  background: var(--bg-main) !important;
 }
 
 #container {
@@ -114,7 +114,7 @@ audio {
   border-left: 2px solid var(--better-main) !important;
   box-shadow: 5px 5px 5px -5px var(--better-main) inset !important;
   border-top-left-radius: 1rem;
-  background: var(--bg-main)
+  background: transparent;
 }
 
 td {
