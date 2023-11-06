@@ -104,6 +104,10 @@ audio {
   box-shadow: unset !important;
 }
 
+#content {
+  background: var(--bg-main);
+}
+
 #container {
   border-top-left-radius: 1rem !important;
   background: var(--bg-main) !important;
