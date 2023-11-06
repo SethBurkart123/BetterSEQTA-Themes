@@ -30,7 +30,7 @@ body, html {
 }
 
 #container #content #title {
-  background-color: var(--bg-main) !important;
+  background-color: transparent !important;
   box-shadow: none !important;
   border-bottom: none !important;
 }
@@ -80,7 +80,11 @@ audio {
 }
 
 #container #menu {
-  background-color: var(--bg-main) !important;
+  background: transparent !important;
+}
+
+#container {
+  background: var(--bg-main);
 }
 
 #menu li,
