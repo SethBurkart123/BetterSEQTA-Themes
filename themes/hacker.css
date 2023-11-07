@@ -105,7 +105,7 @@ audio {
 }
 
 #content {
-  background: var(--bg-main);
+  background: var(--bg-main) !important;
 }
 
 #container {
