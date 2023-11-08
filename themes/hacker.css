@@ -3,6 +3,9 @@
 :root {
   --bg-main: rgba(12, 12, 12, 0.9);
   --bg-secondary: rgba(18, 20, 18, 0.9);
+  --background-primary: #232323;
+  --background-secondary: #1a1a1a;
+  --text-primary: white;
 }
 
 body, html {
