@@ -172,7 +172,7 @@ td {
   background: transparent !important;
 }
 
-#home-container .timetable-container #day-container div {
+#home-container .timetable-container #day-container > div {
   background: var(--bg-secondary);
   width: 100%;
 }
