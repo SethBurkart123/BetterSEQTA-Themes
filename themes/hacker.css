@@ -6,6 +6,7 @@
   --background-primary: #232323 !important;
   --background-secondary: #1a1a1a !important;
   --text-primary: white !important;
+  --text-color: white !important;
 }
 
 body, html {
