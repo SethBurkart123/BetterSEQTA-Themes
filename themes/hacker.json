@@ -1,8 +1,9 @@
 {
-    "css": "https://raw.githubusercontent.com/SethBurkart123/BetterSEQTA-Themes/main/themes/hacker.css",
-    "className": "",
-    "images": {
-      "--other-image": "https://source.unsplash.com/random/1920x1080"
-    }
+  "css": "https://raw.githubusercontent.com/SethBurkart123/BetterSEQTA-Themes/main/themes/hacker.css",
+  "className": "hacker",
+  "defaultColour": "rgb(0, 235, 74)",
+  "darkMode": true,
+  "images": {
+    "--other-image": "https://source.unsplash.com/random/1920x1080"
   }
-  
+}
