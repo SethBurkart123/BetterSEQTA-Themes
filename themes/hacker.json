@@ -3,7 +3,5 @@
   "className": "hacker",
   "defaultColour": "rgb(0, 235, 74)",
   "darkMode": true,
-  "images": {
-    "--other-image": "https://source.unsplash.com/random/1920x1080"
-  }
+  "images": {}
 }
